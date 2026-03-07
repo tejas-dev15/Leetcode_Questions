@@ -1,6 +1,6 @@
 public class Leetcode83 {
 
-      
+
       public class ListNode {
           int val;
           ListNode next;
