@@ -9,7 +9,7 @@ public class Leetcode160 {
               next = null;
           }
       }
-     
+
 
         public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 
