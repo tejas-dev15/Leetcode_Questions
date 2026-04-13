@@ -6,7 +6,7 @@ import java.util.Queue;
 public class NumberOfRecentCalls {
     Queue<Integer> q = new LinkedList<>();
 
-    
+
 
     public int ping(int t) {
 
