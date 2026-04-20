@@ -1,3 +1,5 @@
+package BinarySearch;
+
 public class Leetcode540 {
 
         public int singleNonDuplicate(int[] nums) {

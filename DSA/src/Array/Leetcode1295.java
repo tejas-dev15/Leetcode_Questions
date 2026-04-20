@@ -1,3 +1,5 @@
+package Array;
+
 public class Leetcode1295 {
     public int findNumbers(int[] nums) {
         int count = 0;

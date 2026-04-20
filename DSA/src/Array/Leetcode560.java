@@ -1,3 +1,5 @@
+package Array;
+
 public class Leetcode560 {
     public int subarraySum(int[] nums, int k) {
         int count = 0;

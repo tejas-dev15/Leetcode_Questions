@@ -1,3 +1,5 @@
+package Math;
+
 public class Leetcode9 {
     public boolean isPalindrome(int x) {
         int original = x;

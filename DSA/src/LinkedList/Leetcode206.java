@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Leetcode206{
     public class ListNode {
       int val;

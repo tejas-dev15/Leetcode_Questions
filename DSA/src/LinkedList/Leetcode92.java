@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Leetcode92 {
 
       public class ListNode {

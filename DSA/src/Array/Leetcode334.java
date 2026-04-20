@@ -1,3 +1,5 @@
+package Array;
+
 public class Leetcode334 {
     public boolean increasingTriplet(int[] nums) {
 

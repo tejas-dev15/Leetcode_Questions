@@ -1,3 +1,5 @@
+package Array;
+
 public class Leetcode283 {
     public void moveZeroes(int[] nums) {
         int[] addar = new int[nums.length];

@@ -1,3 +1,5 @@
+package BinarySearch;
+
 public class Leetcode875 {
     public int minEatingSpeed(int[] piles, int h) {
         int b = 0;

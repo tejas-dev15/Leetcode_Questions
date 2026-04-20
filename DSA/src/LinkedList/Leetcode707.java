@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Leetcode707 {
     class MyLinkedList {
         Node head;

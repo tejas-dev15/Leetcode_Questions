@@ -1,3 +1,5 @@
+package BinarySearch;
+
 public class Leetcode367 {
     public boolean isPerfectSquare(int num) {
         int left = 1;

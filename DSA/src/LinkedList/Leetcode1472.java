@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Leetcode1472 {
     Node head;
     Node current;
