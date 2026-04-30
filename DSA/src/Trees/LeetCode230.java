@@ -13,7 +13,7 @@ public class LeetCode230 {
           this.right = right;
       }
   }
- 
+
     class Solution {
         int ans =0;
         int count =0;
