@@ -13,7 +13,7 @@ public class LeetCode1448 {
           this.right = right;
       }
   }
- 
+
     class Solution {
         int goodNdes =0;
         public int goodNodes(TreeNode root) {
